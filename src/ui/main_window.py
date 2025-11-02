@@ -12,8 +12,6 @@ from PyQt6.QtGui import QFont
 import sys
 import os
 
-# Agregar el directorio padre al path
-sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 from graph import Graph
 from k_paths_algorithm import KShortestPaths

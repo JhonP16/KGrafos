@@ -11,8 +11,6 @@ import numpy as np
 import sys
 import os
 
-# Agregar el directorio padre al path
-sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 from ui.styles import PATH_COLORS, GRAPH_STYLE
 
