@@ -14,7 +14,6 @@ import os
 
 from ui.styles import PATH_COLORS, GRAPH_STYLE
 
-
 class GraphCanvas(QWidget):
     """Widget que contiene el canvas de matplotlib para dibujar grafos"""
 
