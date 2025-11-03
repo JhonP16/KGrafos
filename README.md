@@ -5,8 +5,8 @@ Implementación del algoritmo K-Shortest Paths con interfaz gráfica moderna des
 ## 👥 Equipo de Desarrollo
 
 - **Jhon Jairo Pulgarin Restrepo**
-- **Pablo José Benítez ** - [email2@eafit.edu.co]
-- **Yesid Hurtado Montoya** - [email3@eafit.edu.co]
+- **Pablo José Benítez** 
+- **Yesid Hurtado Montoya**
 
 ## 📝 Descripción
 
